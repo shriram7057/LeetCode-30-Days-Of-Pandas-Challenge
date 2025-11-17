@@ -31,7 +31,6 @@ Each day introduces a new problem focused on a specific Pandas concept.
 - Data Cleaning and Transformation
 - Merging Multiple Datasets
 - Applying Custom Functions
-
 ---
 
 ## ⚙️ Requirements

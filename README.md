@@ -1,55 +1,217 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="230" />
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%2030%20Days%20of%20PD.gif?raw=true" width="220" />
-</p>
+<!-- Header -->
+<table align="center" border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%2030%20Days%20of%20PD.gif?raw=true" width="220" />
+      <h1>LeetCode 30 Days of Pandas Challenge 🐼</h1>
+      <p>
+        A professional and well-structured repository documenting solutions for the
+        <b>LeetCode 30 Days of Pandas Study Plan</b>, focused on mastering data analysis
+        using <b>Python Pandas</b>.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">🐼 LeetCode 30 Days of Pandas Challenge</h1>
+<br/>
 
-Welcome to my repository for the **LeetCode 30 Days of Pandas Challenge**!  
-This repo contains my daily solutions, explanations, and notes for all 30 problems designed to improve **data manipulation and analysis skills using Python's Pandas library**.
+<!-- About the Challenge -->
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th colspan="2" align="left">📘 About the Challenge</th>
+  </tr>
+  <tr>
+    <td><b>Platform</b></td>
+    <td>LeetCode</td>
+  </tr>
+  <tr>
+    <td><b>Study Plan</b></td>
+    <td>30 Days of Pandas</td>
+  </tr>
+  <tr>
+    <td><b>Primary Library</b></td>
+    <td>Pandas (Python)</td>
+  </tr>
+  <tr>
+    <td><b>Difficulty Level</b></td>
+    <td>Beginner to Intermediate</td>
+  </tr>
+  <tr>
+    <td><b>Format</b></td>
+    <td>Jupyter Notebooks (.ipynb)</td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 📘 About the Challenge
-The **30 Days of Pandas Challenge** by [LeetCode](https://leetcode.com/studyplan/30-days-of-pandas/) is a hands-on program that helps you:
-- Learn and practice **Pandas basics**
-- Strengthen your **data cleaning, transformation, and aggregation** skills
-- Solve **real-world data manipulation problems**
+<!-- Repository Structure -->
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th colspan="2" align="left">📂 Repository Structure</th>
+  </tr>
+  <tr>
+    <th>Component</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Day-wise Notebooks</td>
+    <td>Each notebook corresponds to one daily Pandas problem</td>
+  </tr>
+  <tr>
+    <td>Code Solutions</td>
+    <td>Optimized and readable Pandas implementations</td>
+  </tr>
+  <tr>
+    <td>Explanations</td>
+    <td>Step-by-step logic with outputs</td>
+  </tr>
+</table>
 
-Each day introduces a new problem focused on a specific Pandas concept.
+<br/>
 
----
+<!-- Topics Covered -->
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th colspan="2" align="left">🧠 Topics Covered</th>
+  </tr>
+  <tr>
+    <th>Category</th>
+    <th>Concepts</th>
+  </tr>
+  <tr>
+    <td>Core Pandas</td>
+    <td>DataFrames, Series</td>
+  </tr>
+  <tr>
+    <td>Data Selection</td>
+    <td>Filtering, Sorting</td>
+  </tr>
+  <tr>
+    <td>Aggregation</td>
+    <td>GroupBy, Aggregate Functions</td>
+  </tr>
+  <tr>
+    <td>Data Cleaning</td>
+    <td>Handling Missing Values, Transformation</td>
+  </tr>
+  <tr>
+    <td>Advanced Operations</td>
+    <td>Merging, Joining, Custom Functions</td>
+  </tr>
+</table>
 
-- Each file corresponds to one daily problem.
-- Solutions are written in **Jupyter Notebooks** (`.ipynb`) with explanations and outputs.
+<br/>
 
----
+<!-- Requirements -->
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th colspan="2" align="left">⚙️ Requirements</th>
+  </tr>
+  <tr>
+    <th>Tool</th>
+    <th>Purpose</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Programming Language</td>
+  </tr>
+  <tr>
+    <td>Pandas</td>
+    <td>Data Analysis Library</td>
+  </tr>
+  <tr>
+    <td>Jupyter Notebook</td>
+    <td>Interactive Development Environment</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <pre>pip install pandas jupyter</pre>
+    </td>
+  </tr>
+</table>
 
-## 🧠 Topics Covered
-- DataFrames and Series
-- Filtering, Sorting, and Grouping
-- Aggregations and Joins
-- Data Cleaning and Transformation
-- Merging Multiple Datasets
-- Applying Custom Functions
----
+<br/>
 
-## ⚙️ Requirements
+<!-- CONNECT -->
+<h3>🤝 Connect with Me</h3>
 
-To run these notebooks locally, install the following dependencies:
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th align="center">Platform</th>
+    <th align="center">Profile</th>
+  </tr>
 
-```bash
-pip install pandas jupyter
-```
-## 🤝 Let's Connect!
-<div align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/>
+      <br/>GitHub
+    </td>
+    <td align="center">
+      <a href="https://github.com/shriram7057" target="_blank">
+        https://github.com/shriram7057
+      </a>
+    </td>
+  </tr>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heyy_shree_01/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/lahaneshr7f7/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+      <br/>LinkedIn
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/Shriram%20Lahane" target="_blank">
+        https://linkedin.com/in/Shriram Lahane
+      </a>
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/>
+      <br/>Kaggle
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/shriramlahane" target="_blank">
+        https://kaggle.com/shriramlahane
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+      <br/>Instagram
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/pvt.shree_01" target="_blank">
+        https://instagram.com/pvt.shree_01
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+      <br/>LeetCode
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/shriram-01" target="_blank">
+        https://leetcode.com/shriram-01
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="70"/>
+      <br/>GeeksforGeeks
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/shriram01" target="_blank">
+        https://auth.geeksforgeeks.org/user/shriram01
+      </a>
+    </td>
+  </tr>
+</table>
